@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&display=swap');
+
+
+img {
+    display: grid;
+    place-items: center; /* opcional: centraliza o conteúdo */
+    aspect-ratio: 1 / 1; /* Define a proporção desejada */
+    width: 30%; /* ajuste conforme necessário */
+}
+
+ 
+.linguagens {
+  width: 270px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  border: 2px solid #000;
+  border-radius: 10px;
+  border-right: 4px double
+    
+}
+
+.linguagens img {
+    width: 85px;
+    height: auto;
+    display: block;
+    
+}
+
+body {
+    background-color: cornflowerblue;
+    background: linear-gradient(to right, #719ef1, #1d1ae0);
+    
+}
+
+
+  
+
+h1 {
+    font-family: "Anta", sans-serif;
+    font-style: normal;
+}
+
+p {
+    font-family: "Oswald", sans-serif;
+    font-size: 30px;
+}
+
+
+   
+  
